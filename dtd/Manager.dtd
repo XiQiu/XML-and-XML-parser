@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Manager (ManagerId, UserId, RestaurantId, Phone)>
+<!ELEMENT ManagerId (#PCDATA)>
+<!ELEMENT UserId (#PCDATA)>
+<!ELEMENT RestaurantId (#PCDATA)>
+<!ELEMENT Phone (#PCDATA)>
