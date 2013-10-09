@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT AddRestaurantRequest (RequestId, ManagerId, RestaurantName,Cuisine,Location)>
+<!ELEMENT RequestId (#PCDATA)>
+<!ELEMENT ManagerId (#PCDATA)>
+<!ELEMENT RestaurantName (#PCDATA)>
+<!ELEMENT Cuisine (#PCDATA)>
+<!ELEMENT Location (#PCDATA)>
