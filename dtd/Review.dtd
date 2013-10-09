@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Review (ReviewId, RestaurantId, UserId, DateTimeAdded, Note, Upvotes, DownVotes, Category)>
+<!ELEMENT ReviewId (#PCDATA)>
+<!ELEMENT UserId (#PCDATA)>
+<!ELEMENT DateTimeAdded (#PCDATA)>
+<!ELEMENT Note (#PCDATA)>
+<!ELEMENT Upvotes (#PCDATA)>
+<!ELEMENT DownVotes (#PCDATA)>
+<!ELEMENT Category (#PCDATA)>
