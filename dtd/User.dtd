@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT User (UserId, UserName, EmailId, Password, Rank, PreferredLocation)>
+<!ELEMENT UserId (#PCDATA)>
+<!ELEMENT UserName (#PCDATA)>
+<!ELEMENT EmailId (#PCDATA)>
+<!ELEMENT Password (#PCDATA)>
+<!ELEMENT Rank (#PCDATA)>
+<!ELEMENT PreferredLocation (#PCDATA)>
