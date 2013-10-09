@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT RestaurantCuisineMap (RestaurantCuisineId, RestaurantId, CuisineId)>
+<!ELEMENT RestaurantCuisineId (#PCDATA)>
+<!ELEMENT RestaurantId (#PCDATA)>
+<!ELEMENT CuisineId (#PCDATA)>
