@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT User (UserCuisineId, UserId, CuisineId)>
+<!ELEMENT UserCuisineId (#PCDATA)>
+<!ELEMENT UserId (#PCDATA)>
+<!ELEMENT CuisineId (#PCDATA)>
