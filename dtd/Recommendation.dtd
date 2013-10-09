@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Recommendation (RecommendationId, UserId, RestaurantId, DateTimeAdded)>
+<!ELEMENT RecommendationId (#PCDATA)>
+<!ELEMENT UserId (#PCDATA)>
+<!ELEMENT RestaurantId (#PCDATA)>
+<!ELEMENT DateTimeAdded (#PCDATA)>
